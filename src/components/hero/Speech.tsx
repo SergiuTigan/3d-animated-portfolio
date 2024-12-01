@@ -1,4 +1,4 @@
-import './Hero.scss';
+import './hero.scss';
 import { TypeAnimation } from 'react-type-animation';
 import {motion} from 'motion/react';
 
