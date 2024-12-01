@@ -38,6 +38,11 @@
     padding: 50px;
     border-radius: 50% 0;
   }
+
+  @media(max-width: 768px) {
+    &:last-child {
+    display: none;
+  }}
 }
 
 form {
